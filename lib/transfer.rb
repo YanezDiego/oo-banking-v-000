@@ -20,6 +20,7 @@ class Transfer
      receiver.balance += amount
      @status = "complete"
    end
+   end
 
 
 
