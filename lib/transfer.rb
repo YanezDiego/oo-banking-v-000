@@ -12,7 +12,6 @@ class Transfer
 
    def valid?
      
-
    end
 
 
